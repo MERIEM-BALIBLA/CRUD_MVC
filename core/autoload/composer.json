@@ -1,0 +1,15 @@
+{
+    "name": "youcode/test",
+    "autoload": {
+        "psr-4": {
+            "Youcode\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BALIBLA MERIEM",
+            "email": "balibla.meriem@gmail.com"
+        }
+    ],
+    "require": {}
+}
